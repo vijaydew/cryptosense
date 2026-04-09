@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+requests==2.31.0
+transformers==4.35.2
+torch==2.9.0
+tweepy==4.14.0
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+pymysql==1.1.04
+
+
+# venv\Scripts\activate
+# pip install fastapi uvicorn sqlalchemy pymysql transformers torch tweepy requests python-dotenv
+# pip install json_database
